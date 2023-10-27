@@ -1,0 +1,11 @@
+commit 588c6e4fbe1c7d0e99681d9175fd88668576df9d
+Author: Lucas Siano <sianolucasdev@hotmail.com>
+Date:   Wed Oct 25 20:47:19 2023 -0300
+
+    Ajuste en readme
+
+commit 646cc185517644c86222d9196b7ccd66a22032d3
+Author: Lucas Siano <sianolucasdev@hotmail.com>
+Date:   Wed Oct 25 20:31:19 2023 -0300
+
+    Se agregó readme
